@@ -21,8 +21,7 @@ export default class VoirAnime {
     });
   }
 
-  async watch(url) {
-    // Pour l'instant, cela renvoie vers la page de l'animé
+  async watch(url) { 
     return { type: "hls", url: url };
   }
 }
