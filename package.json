@@ -1,8 +1,8 @@
 {
   "name": "VoirAnime Perso",
-  "id": "voiranime-perso-unique",
+  "id": "voiranime_extension_v1",
   "version": "1.0.0",
-  "description": "Mon extension VoirAnime",
+  "description": "Source VoirAnime par Leopard",
   "icon": "https://v6.voiranime.com/favicon.ico",
   "type": "anime",
   "lang": "fr"
