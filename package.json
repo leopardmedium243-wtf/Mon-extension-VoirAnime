@@ -1,0 +1,9 @@
+{
+  "name": "VoirAnime Perso",
+  "id": "voiranime-perso",
+  "version": "1.0.0",
+  "description": "Mon extension VoirAnime",
+  "icon": "https://v6.voiranime.com/favicon.ico",
+  "type": "anime",
+  "lang": "fr"
+}
